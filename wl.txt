@@ -1,3 +1,1 @@
-local anim = Instance.new("Animation")
-anim.AnimationId = "rbxassetid://16945573694"
-game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(anim):Play()
+xxfd965N1NSFkrxy_isafraudelantAesirApocalypse6Cip_Xxs0ezP3s6YA7xYs
